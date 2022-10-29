@@ -16,10 +16,13 @@
           <h1 class="text-5xl font-extrabold text-blue-600">JGcoder</h1>
         </div>
         <h3 class="mb-3 text-2xl font-bold text-center text-gray-700">
-            Temporalmente en mantenimiento ¡Pronto el nuevo Blog!
+            Hola <span class="animate-waving-hand">👋🏻</span>, la web se encuentra temporalmente en mantenimiento ¡Pronto el nuevo Blog!
         </h3>
+
+       
+
         <p class="text-sm text-center text-gray-600">
-           
+           2022
         </p>
       </div>
     </div>
